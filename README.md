@@ -46,5 +46,10 @@ The **C source code** is located in the [`src`](src/) folder. The **compiled HEX
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for more details.  
+## **Authors**
+This project was developed by Abdulbasit Hamid 
+
+## 🔓 Open-Source Notice  
+This project is **open-source**, and you are free to use, modify, and share it. However, please give **proper credit** if you use this work in any way.  
+
+*No formal license is applied to this project.*  
